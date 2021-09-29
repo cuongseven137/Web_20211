@@ -10,11 +10,8 @@
 	
         <?php
             $db = array(
-                        array("Nguyen Hai Thanh", "Hai Duong", "0382195410"),
-                        array("Nguyen Quang Long", "Hai Duong", "0123438290"),
-                        array("Scarlet", "Paris", "1239213"),
-                        array("Crescent Moon", "Bejing", "19394004"),
-                        array("Linh Cinder", "Bangkok", "9254380202"),
+                        array("Dinh Quoc Cuong", "Ha Noi", "0968137486"),
+                        array("Nguyen Van An", "Bac Giang", "0123456789"),
                        );     
             $num = 0;
             
